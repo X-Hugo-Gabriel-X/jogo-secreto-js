@@ -1,0 +1,1 @@
+Jogo de adivinhação de número secreto desenvolvido com HTML, CSS e JavaScript puro. O usuário tenta adivinhar um número gerado aleatoriamente com feedback a cada tentativa. Projeto publicado e acessível via Vercel.
